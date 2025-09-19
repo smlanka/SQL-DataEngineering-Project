@@ -1,6 +1,3 @@
-# SQL-DataEngineering-Project
-Building a modern data warehouse with SQL server, including ETL processes, data modelling and analytics
-
 # Data Warehouse and Analytics Project
 
 Welcome to the **Data Warehouse and Analytics Project** repository! 🚀  
