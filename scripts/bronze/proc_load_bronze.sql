@@ -129,5 +129,7 @@ end
 
 ----Use the following code to execute the stored procedure above
 exec bronze.load_bronze
+---Use the following code to check if the data is in the tables or not. Change the table names and check for all of them.
+select * from bronze.erp_px_cat_g1v2;
 
 
